@@ -1,4 +1,4 @@
-# Aetherios: The Citadel of Ashes - A Text Adventure Game by Tim Trott
+# Aethrakor: The Citadel of Ashes - A Text Adventure Game by Tim Trott
 
 This is my first attempt at games programming, one of the few areas I haven't been involved with in the past.
 
@@ -8,7 +8,7 @@ The game isn't complex, difficult, will take a few minutes to complete and isn't
 
 The game offers the player a few choices, each one leading to a different chapter, a simple inventory where the player can pick up, use and drop items.
 
-The game is playable online at [TimTrottCodes](https://timtrottcodes.github.io/).
+The game is playable online at [TimTrottCodes](https://timtrottcodes.pages.dev/).
 
 To run locally you will need to host on a local server, such as LivePreview or mongoose since the Javascript needs a webserver connection to fetch the JSON file contents.
 
