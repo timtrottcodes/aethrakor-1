@@ -8,7 +8,7 @@ The game isn't complex, difficult, will take a few minutes to complete and isn't
 
 The game offers the player a few choices, each one leading to a different chapter, a simple inventory where the player can pick up, use and drop items.
 
-The game is playable online at [TimTrottCodes](https://timtrottcodes.pages.dev/).
+👉 [Try the Online Demo here](https://timtrottcodes.github.io/index.html).
 
 To run locally you will need to host on a local server, such as LivePreview or mongoose since the Javascript needs a webserver connection to fetch the JSON file contents.
 
